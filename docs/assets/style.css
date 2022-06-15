@@ -1,5 +1,5 @@
 html {
-    background: url(/instaSite/docs/assets/img/back.png) no-repeat fixed;
+    background: url(/instaSite/docs/assets/img/back.jpg) no-repeat fixed;
     background-size: cover;
 }
 div.main{
@@ -11,4 +11,8 @@ div.inside1{
 }
 p.inside12{
     font-family: "Lucida Handwriting", "Cursive";
+}
+p.head{
+    font-family: "Lucida Handwriting", "Cursive";
+    font-size:larger;
 }
