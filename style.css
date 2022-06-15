@@ -1,0 +1,14 @@
+html {
+    background: url(img/back.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+div.main{
+    position:relative;
+}
+div.inside1{
+    position: absolute;
+    width:33%;
+}
+p.inside12{
+    font-family: "Lucida Handwriting", "Cursive";
+}
